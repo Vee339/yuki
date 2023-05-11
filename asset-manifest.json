@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yuki/static/css/main.da581718.css",
+    "main.js": "/yuki/static/js/main.882a7d7d.js",
+    "index.html": "/yuki/index.html",
+    "main.da581718.css.map": "/yuki/static/css/main.da581718.css.map",
+    "main.882a7d7d.js.map": "/yuki/static/js/main.882a7d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da581718.css",
+    "static/js/main.882a7d7d.js"
+  ]
+}
